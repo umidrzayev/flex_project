@@ -1,0 +1,75 @@
+h1{
+    display: flex;
+    justify-content: center;
+    color: #109E97;
+}
+
+span{
+    padding: 20px 0;
+}
+
+.span1{
+    color: #008000;
+    font-size: 25px;
+}
+
+.span2{
+    color: #F00;
+    font-size: 15px;
+}
+img{
+    display: block;
+    padding: 20px 0;
+}
+.paragraff{
+    background: #000;
+    color: white;
+    padding: 30px;
+}
+
+table , tr, th, td{
+    border: 1px solid #000;
+    
+}
+table{
+    width: 100%;
+}
+.foto{
+    display:flex;
+    justify-content: space-between;
+}
+form{
+    text-align: center;
+}
+.lname{
+    border: 1px solid #767676;
+    background: #DDD;
+}
+.frame{
+    border: 1px solid #767676;
+background: #FFF;
+width: 200px;
+height: 130px;
+}
+.chart{
+    border: 2px solid #767676;
+background: #109E97;
+width: 120px;
+height: 50px;
+}
+.stile{
+    list-style: none;
+}
+a{
+   text-decoration: none; 
+}
+.finish{
+    border:1px solid black;
+    width: 200px;
+    padding: 2px 525px 50px;
+height: 50px;
+background: #109E97;
+color: #FFF;
+
+
+}
